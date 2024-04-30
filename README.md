@@ -1,2 +1,2 @@
 # picotext
-The pico text editor is a nano clone implemented in python. 
+The pico text editor is a tiny clone of nano implemented in python. 
